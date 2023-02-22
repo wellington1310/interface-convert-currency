@@ -1,5 +1,5 @@
 {
-  "homepage": "https://tiny-chaja-b006b9.netlify.app/",
+  "homepage": ".",
   "proxy": "http://localhost:5000",
   "name": "front",
   "version": "0.1.0",
