@@ -67,7 +67,7 @@ function Convert() {
 
     }
 
-    fetch("https://api-convert-currency.vercel.app/", option)
+    fetch("https://api-convert-currency.vercel.app/convert", option)
       .then(res => {
         return res.json()
       })
